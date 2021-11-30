@@ -1,0 +1,16 @@
+{
+	"name": "yamaha-adecia",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "Audio Conferencing" ],
+	"manufacturer": "Yamaha",
+	"product": "Adecia RM-CR",
+	"shortname": "Adecia",
+	"description": "Professional solution for audio conferencing",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Peter Daniel",
+	"license": "MIT"
+}
